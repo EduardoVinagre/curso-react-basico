@@ -1,0 +1,11 @@
+$primary: lightblue;
+
+.card {
+    background-color: $primary;
+    color: black;
+    height: 100px;
+    width: 80px;
+    border: 2px solid gray;
+    text-align: center;
+    border-radius: 10%;
+}
